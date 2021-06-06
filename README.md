@@ -6,4 +6,4 @@ git remote prune origin 与 git fetch 一起使用
 
 git remote show origin
 
-git remote add origin git/repository
+git test
